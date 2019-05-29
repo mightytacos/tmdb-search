@@ -1,2 +1,2 @@
 # tmdb-search
-The MovieDB search web app
+Web app using The MovieDB API
